@@ -110,7 +110,7 @@ CREATE TABLE zepto (
 
 
 
-      - Import the dataset (convert to UTF-8 if necessary)
+   
 
 
 
